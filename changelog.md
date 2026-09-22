@@ -1,3 +1,9 @@
+## Essential Commands `v0.42.0` (mc 26.3)
+
+update to mc 26.3 by @arnokeesman
+
+--- --- ---
+
 ## Essential Commands `v0.42.0` (mc 26.2)
 
 **Features**
